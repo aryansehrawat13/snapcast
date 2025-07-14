@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Aryan-Sehrawat-s-workspace-8biumg.eu-central-1.xata.sh/db/aryan_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
